@@ -8,6 +8,8 @@
 
 &emsp;&emsp;Русский
 
+&emsp;&emsp;[Tiếng Việt](https://github.com/AlmasB/FXGL/blob/dev/README_VI.md)
+
 ## О фреймворке
 
 <img src="https://raw.githubusercontent.com/AlmasB/git-server/master/storage/images/fxgl_logo.png" width="128" />
